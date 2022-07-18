@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "name": "Reservar cilindros",
+      "startDate": "2022-01-01T12:00:00",
+      "endDate": "2022-01-10T12:00:00",
+      "totalCost": 13000.12
+    },
+    {
+      "name": "Entregar equipamentos",
+      "startDate": "2022-01-10T12:00:00",
+      "endDate": "2022-02-12T12:00:00",
+      "totalCost": 1888.93
+    },
+    {
+      "name": "Distribuição de EPI",
+      "startDate": "2022-02-01T12:00:00",
+      "endDate": "2022-03-03T12:00:00",
+      "totalCost": 12888.93
+    },
+    {
+      "name": "Troca de periféricos",
+      "startDate": "2022-02-17T12:00:00",
+      "endDate": "2022-03-05T12:00:00",
+      "totalCost": 977.93
+    },
+    {
+      "name": "Reservar cilindros",
+      "startDate": "2022-03-01T12:00:00",
+      "endDate": "2022-04-10T12:00:00",
+      "totalCost": 13000.12
+    }
+  ],
+  "wishlist": [
+    {
+      "name": "Reparos em geral",
+      "startDate": "2022-02-01T12:00:00",
+      "endDate": "2022-02-10T12:00:00",
+      "totalCost": 7000.12
+    },
+    {
+      "name": "Treinamento de pessoal",
+      "startDate": "2022-02-08T12:00:00",
+      "endDate": "2022-02-20T12:00:00",
+      "totalCost": 1888.93
+    },
+    {
+      "name": "Viagens comerciais",
+      "startDate": "2022-02-20T12:00:00",
+      "endDate": "2022-04-03T12:00:00",
+      "totalCost": 26888.93
+    }
+  ]
+}
